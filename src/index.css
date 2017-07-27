@@ -1,0 +1,75 @@
+li a {
+  border-radius: 8px;
+  font-size: 1.5em;
+  padding: 12px;
+
+}
+
+.board {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+body {
+  background-color: tan;
+}
+
+button {
+   border-radius: 8px;
+  color: black;
+}
+
+.btn {
+  color: black !important;
+}
+
+
+.controls {
+  font-size: 1.4em;
+  text-align: center;
+
+}
+
+.dashboard {
+  margin-left: 30px;
+}
+
+
+.gen {
+  font-size: 1.2em;
+  color: darkred;
+ padding: 5px;
+}
+
+
+.header {
+  font-size: 5.5em;
+  text-align: center;
+  color: black;
+  font-family: Montserrat;
+}
+
+.sizer {
+  text-align: center;
+  color: black;
+}
+
+li {
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  margin: 5px 5px 5px 15px;
+
+
+}
+
+#startButton {
+  font-size: 1.2em;
+  margin-right: 25px;
+}
+
+svg {
+  margin-left: 8%;
+  display: inline-block;
+  margin-bottom: 10%;
+}
